@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 ini_set("display_errors", 1);
 
 // Tietokanta-asetukset
-$palvelin = "localhost:81";
+$palvelin = "localhost";
 $kayttajatunnus = "root";
 $salasana = "password";
 $tietokanta = "tsa";
